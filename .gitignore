@@ -1,0 +1,10 @@
+*.pyc
+*.beam
+*.swp
+*.bak
+*.csv
+*.log
+.idea
+env
+log
+logs
